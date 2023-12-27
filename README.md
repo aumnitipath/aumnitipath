@@ -12,6 +12,9 @@
 <img src="https://komarev.com/ghpvc/?username=aumnitipath&style=flat-square&color=blue" alt="account counter"/>
 </div>
 
+### :woman_technologist: About Me :
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Thailand.
+
 
 
 **aumnitipath/aumnitipath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
