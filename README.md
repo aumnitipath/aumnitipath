@@ -8,6 +8,7 @@
   <a href="https://www.linkedin.com/in/nitipath-chuejuntuk-93635326b/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <br/>
 <img src="https://komarev.com/ghpvc/?username=aumnitipath&style=flat-square&color=blue" alt="account counter"/>
 </div>
 
