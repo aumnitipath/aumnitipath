@@ -16,8 +16,9 @@
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Thailand.
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
-### :hammer_and_wrench: Languages and Tools :
 
+
+### :hammer_and_wrench: Languages and Tools :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -31,8 +32,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
+
 ### :fire: My Stats :
-https://github-readme-streak-stats.herokuapp.com/?user=aumnitipath
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aumnitipath&theme=dark&background=000000)](https://git.io/streak-stats)
 
